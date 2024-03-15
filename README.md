@@ -1,49 +1,22 @@
-# [JSL01] Submission: Syntax-Engine Interaction Challenge
+**Overview**
+This project is a pet adoption registration application. It requires the user to enter the pet's information in a specific order and will then release a message declaring the information valid or invalid.
 
-You will:
+**Reflections**
 
-1. Use the Starter Code Repo,
-2. Code your solution,
-3. Commit changes to your repo
-4. Submit GitHub Repo Link to LMS [JSL01] Submission Project Tab
+**Areas of Mastery**
 
-Imagine you are building a virtual pet adoption website, and you need to create a JavaScript function that checks if the user has entered valid pet adoption details. Write a function that takes a string as input and validates if it follows a specific syntax, such as starting with "pet\_" followed by a combination of letters and numbers. If the input follows the syntax, return "Valid Syntax," otherwise, return "Invalid Syntax."
+Using regex: I have fully understood how to declare the conditions that a regex should check for, for instance using [] to target specific letters and numbers and the $ to represent all the symbols.
 
-![alt text](jsl_01_final_result.gif)
+Using the test and match function: I know to use the test function to see if something is true or not and match is used to find specifically mentioned conditions.
 
-## Challenge Instructions
+**Challenges Faced**
 
-1. In the script.js file, complete the validateSyntax function to check if the input string starts with "pet\_" and is followed by a combination of letters and numbers.
-2. If the input follows the correct syntax, set result to "Valid Syntax." Otherwise, set it to "Invalid Syntax."
-3. Test your function by entering different strings in the input box and clicking the validate button.
+There were no technical difficulties in completing this project, the only issue was in learning the content. It was a bit frustrating to understand and remember at first, but with freeCodeCamp practice, I was able to understand the content.
 
-## How to Test
+**Areas for Improvement**
 
-- Run the index.html challenge in a browser.
-- Enter different pet adoption details in the input box and click the validate button to see the results.
-- Make sure your solution works for a variety of inputs.
-- Open the console and debug your code until there are no errors.
+I fully understand the content but the common area for improvement is usage. There were many syntax errors in my code that will improve with time and more practice.
 
-## Instructions for Running the Code
+**Overall Learning Experience**
 
-1. Save the HTML, CSS, and JavaScript files in a folder.
-2. Open the folder in VSCode.
-3. Right-click on index.html and open with a browser (use Live Server if available).
-4. Modify the script.js file to correct the syntax errors and save the file.
-5. Refresh your browser to view the changes.
-
-This challenge helps students practice basic string manipulation and validation in JavaScript, along with simple DOM manipulation to create an interactive and user-friendly interface.
-
-Check out the practice challenges on Scrimba here: https://scrimba.com/playlist/pqPae6ZH7
-
-Overview
-
-Reflections
-
-Areas of Mastery
-
-Challenges Faced
-
-Areas for Improvement
-
-Overall Learning Experience
+This experience was very informative as it was very theory based. I was introduced to JavaScript forms and properties, how to use them and how to use conditions. It was a very fulfilling experience to see the function run and respond to the input values.
